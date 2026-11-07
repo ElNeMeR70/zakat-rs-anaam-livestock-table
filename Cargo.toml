@@ -1,0 +1,10 @@
+[package]
+name = "zakat-rs-anaam-livestock-table"
+version = "1.0.0"
+edition = "2021"
+description = "Classical Sa'imah Livestock Zakat Bracket Solver (Camels, Cattle, Sheep)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "zakat_rs_anaam_livestock_table"
+path = "main.rs"
